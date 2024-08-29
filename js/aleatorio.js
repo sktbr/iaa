@@ -5,4 +5,4 @@ export function aleatorio (lista){
     return lista[posicao];
 }
 
-export const nome = aleatorio("Matheus Trentin")
+export const nome = ("Matheus Trentin")
